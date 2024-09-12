@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS backgrounds (
+  id SERIAL PRIMARY KEY,
+  image TEXT NOT NULL,
+  new_background TEXT,
+  review TEXT,
+  review_completed BOOLEAN DEFAULT FALSE,
+  theme TEXT
+);
