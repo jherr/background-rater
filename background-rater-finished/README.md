@@ -1,9 +1,5 @@
 This is an example AI application that uses [Inngest](https://www.inngest.com/) to choreograph the long running AI jobs.
 
-### Quick Start
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjherr%2Frate-my-background&project-name=rate-my-background&env=OPENAI_API_KEY&stores=%5B%7B%22type%22%3A%22postgres%22%7D%2C%7B%22type%22%3A%22blob%22%7D%5D)
-
 ## Getting Started
 
 Follow these steps to get started with the project:
